@@ -1,0 +1,22 @@
+<?php
+// index.php
+// You can include any necessary PHP logic here, like session checks, user authentication, etc.
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semkama - Sembako Management</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body class="bg-gray-100">
+    <!-- Page Content -->
+    <div id="page-content"></div>
+
+    <!-- JavaScript -->
+    <script src="../js/script.js"></script>
+</body>
+</html>
